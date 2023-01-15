@@ -1,2 +1,10 @@
+*.jpg binary
+*.jpg filter=lfs diff=lfs merge=lfs -text
+*.mp3 binary
 *.mp3 filter=lfs diff=lfs merge=lfs -text
+*.ogg binary
 *.ogg filter=lfs diff=lfs merge=lfs -text
+*.pdn binary
+*.pdn filter=lfs diff=lfs merge=lfs -text
+*.png binary
+*.png filter=lfs diff=lfs merge=lfs -text
