@@ -1,10 +1,14 @@
 # WitherStorm
 
-Makes the Wither look like the Wither Storm in Minecraft Story Mode.
+* [For feedback and support, feel free to contact me](https://www.youtube.com/@DerRobert28/community).
 
-It also contains the epic music when the Wither is spawning.
+## Features:
 
-The reosource pack should be compatible to all Minecraft versions containing the Wither.
+- It makes the Wither look like the Wither Storm in Minecraft Story Mode.
+
+- It also contains the epic Wither Storm music for when the Wither is spawning.
+
+- The resource pack should be compatible to all Minecraft versions containing the Wither.
 
 <br>
 
@@ -30,21 +34,35 @@ git clone https://github.com/DerRobert-28/WitherStorm.git
 
 ## Alternative installation:
 
-* Download the ZIP file of the master branch to your PC.
-* Copy the folder inside the ZIP file into your Minecraft data folder (see above).
-* **IMPORTANT:** If you just copy the ZIP file itself into your Minecraft data folder, it will **NOT** work.
+- [Download the ZIP file of the master branch to your PC](https://github.com/DerRobert-28/WitherStorm/archive/refs/heads/master.zip).
+
+- Copy the folder inside the ZIP file into your `resourcepacks` folder:
+
+  - for Windows: `%appdata%\.minecraft\resourcepacks`
+
+  - for Linux: `~\.minecraft\resourcepacks`
+
+- **IMPORTANT:**
+
+  - If you just copy the ZIP file itself into your `resourcepacks` folder, it will **NOT** work.
+  
+  - If you extract all files and copy the extracted `resourcepacks` folder, it may also **NOT** work.
 
 <br>
 
 ## Please note:
 
-* If you changed the default data path of Minecraft, you need to replace the path above by your custom one.
-* If the file `spawn.ogg` file is not cloned into your repository properly, you need to install `git-lfs` first.<br>
-  - The actual installation depends on your operating system and your distribution.
-  - It can be downloaded here: https://git-lfs.com
-* If you are using the alternative (third) installation, the file `spawn.ogg` may not be properly installed, due to GitHub's file size reestriction.
+- If you changed the default data path of Minecraft, you need to replace the path above by your custom one.
 
-<br>  
+- If the file `assets/minecraft/sounds/mob/wither/spawn.ogg` file is not cloned into your repository properly, you need to install `git-lfs` first.
+
+  - The actual installation depends on your operating system and your distribution.
+  
+  - It can be downloaded here: https://git-lfs.com
+  
+- By using the alternative installation, the file `assets/minecraft/sounds/mob/wither/spawn.ogg` may not be properly installed, due to GitHub's file size reestriction.
+
+<br>
 <br>
 
-*© 2023 by Der Robert*
+*&copy; 2023 by Der Robert*
