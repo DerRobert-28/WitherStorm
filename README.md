@@ -37,4 +37,6 @@ git clone https://github.com/DerRobert-28/WitherStorm.git
   
 ----
 
-*© 2022 by Der Robert*
+<br>
+
+*© 2023 by Der Robert*
