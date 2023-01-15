@@ -8,7 +8,7 @@ The reosource pack should be compatible to all Minecraft versions containing the
 
 ----
 
-## Installation with `git`:
+## Installation
 
 ```
 cd %appdata%\.minecraft\resourcepacks
