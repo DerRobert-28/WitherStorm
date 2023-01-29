@@ -8,7 +8,7 @@
 
 - It also contains the epic Wither Storm music for when the Wither is spawning.
 
-- The resource pack should be compatible to all Minecraft versions containing the Wither.
+- The resource pack should be compatible to all Minecraft JE versions containing the Wither.
 
 <br>
 
